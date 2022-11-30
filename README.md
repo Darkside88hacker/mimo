@@ -27,7 +27,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-bot/zimbot-v4)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Darkside88hacker/mimo)
 
 ## BUILD PACKS
 
@@ -55,9 +55,9 @@ apt install git
 
 apt update && apt upgrade
 
-git clone https://github.com/zim-bot/zimbot-v4
+git clone https://github.com/Darkside88hacker/mimo
  
-cd zimbot-v4
+cd mimo
 
  
 rm -r session.json
