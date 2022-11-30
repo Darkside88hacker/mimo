@@ -1,8 +1,8 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/zim-bot/zimbot-v4 /Drips/Zimbotv4
+RUN git clone https://github.com/Darkside88hacker/mimo /Darkside/Mimo
 
-WORKDIR /Drips/Zimbotv4
+WORKDIR /Darkside/mimo
 
 ENV TZ=Africa/Harare
 
